@@ -1,7 +1,7 @@
 """
 RandomLOL
 Author: MrZoyo
-Date: 2024-03-20
+Date: 2024-05-16
 ----------------
 Champions Number: 167
 Latest released champion: Smolder
@@ -13,7 +13,7 @@ import io
 import os
 import random
 
-version = 'v0.0.5'
+version = 'v0.0.6'
 required_folders = ['champions', 'default', 'items', 'positions', 'runes', 'spells']
 current_language = "中文"
 champions_count = len(os.listdir('champions'))

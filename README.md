@@ -3,6 +3,10 @@
  A small tool for LOL players in all random mode.
 
 ---
+## V0.0.6 - 2024-05-16
+- Runes and items update for LOL version 14.10.
+
+---
 ## V0.0.5 - 2024-03-20
 ### New Multi-language support
 - Add a new multi-language support system to support multiple languages. You can define the language in the `LANGUAGE` dictionary.
